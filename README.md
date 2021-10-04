@@ -1,5 +1,5 @@
 # Learning Parameter-specific Affine Transformation for Medical Images Registration
-Official implementations of paper: [Learning Parameter-specific Affine Transformation for Medical Images Registration] (https://link.springer.com/chapter/10.1007/978-3-030-87202-1_3).
+Official implementations of MICCAI2021 paper: [Learning Parameter-specific Affine Transformation for Medical Images Registration] (https://link.springer.com/chapter/10.1007/978-3-030-87202-1_3).
 * Implemented a novel parameter-specific affine transformation framework for both 2D and 3D medical images registration
 * A Pytoch verstion is coming soon...
 * A friendly usage is coming soon...
